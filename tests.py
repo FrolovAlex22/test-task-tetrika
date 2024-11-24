@@ -1,9 +1,9 @@
 import asyncio
 import unittest
 
-from test_1 import sum_two
-from test_2 import main
-from test_3 import appearance
+from test_1.solution import sum_two
+from test_2.solution import main
+from test_3.solution import appearance
 
 
 tests = [
